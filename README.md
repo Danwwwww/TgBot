@@ -4,12 +4,7 @@
   User can use the bot to search the information about the porduct ,shops or ask for help
   
 *  /start to start the bot<br>
-![start](https://github.com/Danwwwww/TgBot/blob/main/video/start.gif) <br>
-
-
 https://github.com/user-attachments/assets/389811e1-4c33-41a2-8dc5-c26e7fd30729
-
-
 
 *  /product [product id] to search the product infomation by prduct id<br>
 ![prduct](https://github.com/Danwwwww/TgBot/blob/main/video/product.gif) 

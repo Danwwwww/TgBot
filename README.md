@@ -1,6 +1,8 @@
 ### Telegram Bot of a electric shop
 
 * This is a Telegram Bot design for electric shop
+  User can use the bot to search the information about the porduct ,shops or ask for help
+  
 *  /start to start the bot<br>
 https://github.com/user-attachments/assets/e418dd3b-1119-4958-8755-62d8fc045dda
 
